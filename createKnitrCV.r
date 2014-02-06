@@ -1,5 +1,6 @@
 # Date : 05FEB2014
 # Author : Alexandre Bujard
+# Description : 
 
 library(knitr)
 library(tm)
